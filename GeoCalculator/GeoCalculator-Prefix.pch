@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'GeoCalculator' target in the 'GeoCalculator' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
